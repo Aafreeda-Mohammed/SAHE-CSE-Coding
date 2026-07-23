@@ -7,7 +7,8 @@ All my programs and projects-From SAHE University
 **'Day 2-arithmetic_operations.c'-Arithmetic operations with divide-by-0 error handling using if-else
 **'Day 2-temp_conversion.c'-Converting celsius to fahrenheit and vice versa
 **'Day 3-pattern_BEF_hardcode.c'-creating patterns through programming
-**'Day 3-pattern_STAR and 1_.c'-creating patterns through programming
+**'Day 3-pattern_STAR_and_1_.c'-creating patterns through programming
 **'Day-4-relational_operators.c'-demonstrating relational operators through C
+**'Day-4-logical_operators.c'-demonstrating logical operators through C
 **GOAL**:50+ programs and mini projects by the end of the 1st year
 ##LEARNING IN PUBLIC
