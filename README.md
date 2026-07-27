@@ -11,5 +11,7 @@ All my programs and projects-From SAHE University
 **'Day-4-relational_operators.c'-demonstrating relational operators through C
 **'Day-4-logical_operators.c'-demonstrating logical operators through C
 **'Day-4-assignment_operators.c'-demonstrating assignment operators through C
+**'Day-5-int_to_char.c'-reads an integer and converts into corresponding ASCII character through C
+**'Day-5-char_to_int.c'-reads a character and converts into corresponding ASCII value through C
 **GOAL** :50+ programs and mini projects by the end of the 1st year
 ##LEARNING IN PUBLIC
