@@ -13,5 +13,8 @@ All my programs and projects-From SAHE University
 **'-assignment_operators.c'-demonstrating assignment operators through C
 **'-int_to_char.c'-reads an integer and converts into corresponding ASCII character through C
 **'-char_to_int.c'-reads a character and converts into corresponding ASCII value through C
+**'-practice_program 1.c'using #define and const data types
+**'-practice_program 2.c'using #define and const data types
+**'-practice_program 3.c'using #define and const data types
 **GOAL** :50+ programs and mini projects by the end of the 1st year
 ##LEARNING IN PUBLIC
