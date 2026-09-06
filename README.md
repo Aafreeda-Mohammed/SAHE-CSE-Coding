@@ -1,7 +1,7 @@
 # SAHE-CSE-Coding
 First-year B.Tech CSE @ SAHE University - Learning C from scratch and pushing daily.
 
-### What I have covered (01 to 08)
+### What I have covered (01 to 09)
 - **01_Basics:** SI, type conversion (implicit/explicit), int_to_char, char_to_int, temp_conversion
 - **02_Operators:** arithmetic, relational, logical, assignment
 - **03_Patterns:** BEF hardcode, STAR and 1 patterns
