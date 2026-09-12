@@ -1,7 +1,7 @@
 # SAHE-CSE-Coding
 First-year B.Tech CSE @ SAHE University - Learning C from scratch and pushing daily.
 
-### What I have covered (01 to 09)
+### What I have covered (01 to 11)
 - **01_Basics:** SI, type conversion (implicit/explicit), int_to_char, char_to_int, temp_conversion
 - **02_Operators:** arithmetic, relational, logical, assignment
 - **03_Patterns:** BEF hardcode, STAR and 1 patterns
@@ -11,6 +11,9 @@ First-year B.Tech CSE @ SAHE University - Learning C from scratch and pushing da
 - **07_while_loop:** 1_to_n, print_even, sum_while, sqrt, vertical_asterisk
 - **08_new_learnings:** prime_in_given_range
 - **09_Matrices:** add_matrices, transpose, symmetric, identity, upper&lower_triangular, trace, sparse,multiplication
+- ** 10_Functions: func_add, func_avg, func_max
+- **11_Recursions: fact_recursion, fibonacci_recursion, ncr_recursion
+
 
 **GOAL:** 50+ programs + mini projects by end of 1st year
 **LEARNING IN PUBLIC**
