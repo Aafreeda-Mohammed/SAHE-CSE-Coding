@@ -22,7 +22,7 @@ What I have covered 01 to 11
 
 09_Matrices: add matrices, transpose, symmetric, identity, upper and lower triangular, trace, sparse, multiplication
 
-10_Functions: func add, func avg, func max
+10_Functions: func add, func avg, func max, max_min
 
 11_Recursions: fact recursion, fibonacci recursion, ncr recursion
 
