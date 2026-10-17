@@ -16,13 +16,13 @@ What I have covered 01 to 11
 
 06_else_if_ladder: positive negative zero, grading system A to Fail, temp status very cold to very hot
 
-07_Loops: 1 to n, print even, sum while, sqrt, reverse, palindrome, prime, perfect, armstrong, strong, decimal to binary, vertical asterisk
+07_Loops: 1 to n, print even, sum while, sqrt, reverse, palindrome, prime, perfect, armstrong, strong, decimal to binary, vertical asterisk, max_min
 
-08_Adv_Loops: prime in given range
+08_Adv_Loops: prime in given range, binary_search.c, ele_check.c, insert.c
 
 09_Matrices: add matrices, transpose, symmetric, identity, upper and lower triangular, trace, sparse, multiplication
 
-10_Functions: func add, func avg, func max, max_min
+10_Functions: func add, func avg, func max
 
 11_Recursions: fact recursion, fibonacci recursion, ncr recursion
 
